@@ -9,7 +9,7 @@ A modern Islamic prayer times application built with React and Next.js that help
 
 - 📅 Accurate prayer times calculation (done)
 - 📍 Location-based timing adjustments (done)
+- 📱 Responsive design for all devices (done)
 - 🌙 Hijri calendar integration 
 - 🔔 Prayer time notifications
 - 🌓 Dark/Light mode support
-- 📱 Responsive design for all devices (done)
