@@ -3,7 +3,7 @@
 A modern Islamic prayer times application built with React and Next.js that helps Muslims track their daily prayers.
 
 ## Live Demo
-✨ Visit the application: [https://adhan-chi.vercel.app/](https://adhan-chi.vercel.app/)
+✨ Visit the application: [https://adhan-app-eight.vercel.app/](https://adhan-app-eight.vercel.app/)
 
 ## Features
 
