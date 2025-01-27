@@ -1,8 +1,10 @@
+import { Card as UICard } from "@/components/ui/card";
+
 const Card = ({ children }: React.PropsWithChildren) => {
   return (
-    <div className="bg-white rounded-2xl shadow-xl overflow-hidden">
+    <UICard className="bg-white rounded-2xl shadow-xl overflow-hidden">
       {children}
-    </div>
+    </UICard>
   );
 };
 
